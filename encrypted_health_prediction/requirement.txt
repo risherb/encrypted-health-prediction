@@ -1,0 +1,6 @@
+gradio==3.36.1
+scikit-learn==1.2.2
+numpy==1.23.5
+pandas==1.5.3
+opencv-python==4.7.0.72
+concrete-ml==1.7.0
